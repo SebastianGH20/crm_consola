@@ -1,0 +1,11 @@
+[
+    {
+        "id": "USR001",
+        "nombre": "Sebastián",
+        "apellidos": "González Hincapié",
+        "email": "sebastian.gonzalez.hincapie@gmail.com",
+        "telefono": "654019100",
+        "direccion": "Avenida de los Planetas 14/10D",
+        "fecha_registro": "23/06/2025"
+    }
+]
