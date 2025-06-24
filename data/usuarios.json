@@ -7,5 +7,14 @@
         "telefono": "654019100",
         "direccion": "Avenida de los Planetas 14/10D",
         "fecha_registro": "23/06/2025"
+    },
+    {
+        "id": "USR002",
+        "nombre": "Estefania",
+        "apellidos": "Jaramillo Diaz",
+        "email": "estefania.jaramillo.diaz@gmail.com",
+        "telefono": "652457080",
+        "direccion": "Avenida de los Planetas 14/10D",
+        "fecha_registro": "24/06/2025"
     }
 ]
