@@ -52,6 +52,12 @@ crm_consola/
 
 Para ejecutar correctamente el proyecto:
 
+Clonar los archivos del proyecto:
+
+```bash
+git clone https://github.com/SebastianGH20/crm_consola.git
+```
+
 Ingresa al directorio del repositorio clonado:
 
 ```bash
