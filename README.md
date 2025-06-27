@@ -50,6 +50,14 @@ crm_consola/
 
 ## 🧪 Ejecución
 
+Para ejecutar correctamente el proyecto:
+
+Ingresa al directorio del repositorio clonado:
+
+```bash
+cd crm_consola
+```
+
 Asegúrate de tener Python instalado y ejecuta:
 
 ```bash
